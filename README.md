@@ -39,21 +39,31 @@ assign f1=((~b & ~d)|(~a & b & d)|(a & b & ~c));
 endmodule
 
 
-Developed by: Ezhilarasi N RegisterNumber:*/24901074 
+module funct2(w,x,y,z,f2);
+input w,x,y,z;
+output f2;
+assign f2=((~y & z)|( w & y )|(x & y));
+endmodule
+
+
+Developed by: Ezhilarasi N RegisterNumber: 24901074 
 
 
 **RTL realization**
-![Uploading Screenshot (12).png…]()
-![Uploading Screenshot (14).png…]()
+![Screenshot (12)](https://github.com/user-attachments/assets/b1aa1c88-2278-449e-bf3b-f443572b4ea8)
+
+
+![Screenshot (14)](https://github.com/user-attachments/assets/03d18f25-933d-4601-96eb-84a0ad818229)
 
 
 
 
 **Output:**
 
-![Uploading Screenshot (13).png…]()
+![Screenshot (13)](https://github.com/user-attachments/assets/ee5432c9-bc61-46a3-839a-f01172d4b741)
 
-![Uploading Screenshot (15).png…]()
+![Screenshot (15)](https://github.com/user-attachments/assets/4592446a-f3e3-46ee-a807-3c9a2ce969e0)
+
 
 
 **Result:**
