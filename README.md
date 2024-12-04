@@ -12,7 +12,7 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
 Hardware – PCs, Cyclone II , USB flasher
 
-**Software – Quartus prime**
+**Software – Quartus prime*
 
 
 
@@ -31,7 +31,6 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Program:**
 
-/*
 
 module funct1(a,b,c,d,f1);
 input a,b,c,d;
@@ -44,13 +43,17 @@ Developed by: Ezhilarasi N RegisterNumber:*/24901074
 
 
 **RTL realization**
-![Screenshot (3)](https://github.com/user-attachments/assets/c564b5ad-7d18-4651-9332-4c8488ec2be5)
+![Uploading Screenshot (12).png…]()
+![Uploading Screenshot (14).png…]()
+
 
 
 
 **Output:**
 
-![Screenshot (4)](https://github.com/user-attachments/assets/a8a54d49-19a2-4402-b53b-3b951852e086)
+![Uploading Screenshot (13).png…]()
+
+![Uploading Screenshot (15).png…]()
 
 
 **Result:**
