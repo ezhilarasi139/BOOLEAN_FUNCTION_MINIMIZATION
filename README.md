@@ -46,12 +46,14 @@ Developed by: Ezhilarasi N RegisterNumber:*/24901074
 
 
 **RTL realization**
-![Screenshot (26)](https://github.com/user-attachments/assets/d5c0cd3f-f561-4702-9911-8d857dc5a883)
+djj![Screenshot (3)](https://github.com/user-attachments/assets/c564b5ad-7d18-4651-9332-4c8488ec2be5)
+
 
 
 **Output:**
 
-![Screenshot (27)](https://github.com/user-attachments/assets/18424bee-e008-4f55-b5cb-f4de543d05c2)
+![Screenshot (4)](https://github.com/user-attachments/assets/a8a54d49-19a2-4402-b53b-3b951852e086)
+
 
 **Timing Diagram**
 
